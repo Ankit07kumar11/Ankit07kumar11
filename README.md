@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ankit07kumar11
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c language
+- 🌱 I’m currently AT QN INTERMEDIATE LEVEL IN PYTHON LANGUAGE
+-  I'm starting journey with DSA in python and would be uploading code files on my profile
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me GMAIL= ankitkumar56074@gmail.com
 
