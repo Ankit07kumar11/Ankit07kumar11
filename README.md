@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ankit07kumar11
-- 👀 I’m interested in coding
-- 🌱 I’m currently AT  INTERMEDIATE LEVEL IN PYTHON LANGUAGE
+- 👀 I’m interested in solving DSA problems,Web Dev.
+- 🌱 I’m a Python Developer
 -  I'm starting journey with DSA in python and would be uploading code files on my profile
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me GMAIL= ankitkumar56074@gmail.com
 
 <!---
