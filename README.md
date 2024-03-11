@@ -5,10 +5,10 @@
 - 📫 How to reach me ... Portfolio - [Click here](https://ankit0702.carrd.co)
 
  ```javascript
-const aman = {
+const ankit = {
     pronouns: "He" | "Him",
     code: ["css", "Javascript", "ReactJs", "Angular Js", "NodeJs"],
-    askMeAbout: ["web dev", "tech", "machine learning"],
+    askMeAbout: ["web dev", "tech", "Machine Learning"],
     technologies: {
         frontEnd: {
             js: ["ReactJs", "Angular Js"],
