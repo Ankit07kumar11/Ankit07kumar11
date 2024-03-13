@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankit07kumar11
 - 👀 I’m interested in web development and machine learning.
-- 🌱 As of now, I’m web developer (MERN Stack), I can create cool websites for you.
-- 💻 Javascript, ReactJs, NodeJs, ExpressJs, MongoDb, TypeScript, NextJs
+- 🌱 As of now, I’m web developer, I can create cool websites for you.
+- 💻 Javascript, ReactJs, TypeScript, Python
 - 📫 How to reach me ... Portfolio - [Click here](https://ankit0702.carrd.co)
 
  ```javascript
