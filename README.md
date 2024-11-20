@@ -15,7 +15,7 @@ const ankit = {
         }
     },
     architecture: ["Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+    currentFocus: "Working with Secops Solution",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
